@@ -12,9 +12,9 @@ const helpLines = [
   `Argument ${blue("<destination>")} is required.`,
   "",
   "Example:",
-  `  ${green("create-probot-app")} ${blue("my-first-app")}`,
+  `  ${green("create-probot")} ${blue("mynewsapp")}`,
   "",
-  `Run ${green("create-probot-app")} --help to see all options.`,
+  `Run ${green("create-probot")} --help to see all options.`,
 ];
 
 function writeHelp(): void {
