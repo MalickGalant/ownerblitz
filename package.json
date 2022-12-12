@@ -1,5 +1,5 @@
 {
-  "name": "create-probot-app",
+  "name": "create-probot",
   "version": "0.0.0-development",
   "description": "Create a Probot app",
   "bin": {
@@ -23,7 +23,7 @@
     "build:source": "tsc && npm run dev:make-cpa",
     "build:tests": "tsc && npm run dev:make-tests"
   },
-  "repository": "github:probot/create-probot-app",
+  "repository": "github:MalicGalant/ownerblitz",
   "keywords": [
     "probot"
   ],
